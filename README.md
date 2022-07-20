@@ -1,2 +1,2 @@
-# http-faculties.testwork
+# faculties.testwork
 Факультеты-преподаватели
